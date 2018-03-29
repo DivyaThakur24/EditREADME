@@ -33,3 +33,8 @@ There's one more *method*.
 <img src="https://pbs.twimg.com/profile_images/606585229034135553/2NqZJYQI.png">
 
 ![alt text](https://pbs.twimg.com/profile_images/606585229034135553/2NqZJYQI.png)
+
+##### For gifs
+
+![alt text](https://media.giphy.com/media/l1K9Dcy7ww0CW3JHq/giphy.gif)
+
