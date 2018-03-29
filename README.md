@@ -38,3 +38,13 @@ There's one more *method*.
 
 ![alt text](https://media.giphy.com/media/l1K9Dcy7ww0CW3JHq/giphy.gif)
 
+> I'm a blockquote
+
+`int p = 10;`
+
+```
+public void login(View v) {
+.
+.
+}
+```
