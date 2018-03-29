@@ -8,37 +8,10 @@
 
 Plain Text
 
-This is an *emphasised* text.
+This is an **emphasised** text
 
-This is an _italicised_ text.
+There's one more __method__
 
-- - - - 
+This is _italicised_ text.
 
-Bullet List
-* Number 1
-* Number 2
-* Number 3
-
-<img src="https://pbs.twimg.com/profile_images/606585229034135553/2NqZJYQI.png" >
-
-![alt text](https://pbs.twimg.com/profile_images/606585229034135553/2NqZJYQI.png)
-
-![alt text](https://media.giphy.com/media/l1K9Dcy7ww0CW3JHq/giphy.gif)
-
-- - - -
-
-Blockquotes
-> I am a blockquote
-
-> Multiple
-> Blockquotes
-> Coming up!
-
-`int p = 20;`
-
-```
-public void login (View v) {
-. 
-.
-}
-```
+There's one more *method*.
