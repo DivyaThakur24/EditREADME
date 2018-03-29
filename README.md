@@ -25,3 +25,9 @@ There's one more *method*.
 - Number 1
 - Number 2
 - Number 3
+
+### Add Images
+
+##### For pngs/jpegs/jpgs
+
+<img src="https://pbs.twimg.com/profile_images/606585229034135553/2NqZJYQI.png">
