@@ -31,3 +31,5 @@ There's one more *method*.
 ##### For pngs/jpegs/jpgs
 
 <img src="https://pbs.twimg.com/profile_images/606585229034135553/2NqZJYQI.png">
+
+![alt text](https://pbs.twimg.com/profile_images/606585229034135553/2NqZJYQI.png)
